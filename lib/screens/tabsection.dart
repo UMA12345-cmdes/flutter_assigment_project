@@ -199,9 +199,9 @@ class _TabSectionState extends State<TabSection> {
     super.initState();
     _tabs = [
        const HomePage(),
-       const Recommended(),
-       const CollegeDetail1(),
-      const HomeSearch(),
+      //  const Recommended(),
+      //  const CollegeDetail1(),
+      // const HomeSearch(),
       // UserProfileAccountTab(),
     ];
   }
