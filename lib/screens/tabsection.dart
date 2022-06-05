@@ -201,8 +201,8 @@ class _TabSectionState extends State<TabSection> {
        const HomePage(),
       //  const Recommended(),
       //  const CollegeDetail1(),
-      // const HomeSearch(),
-      // UserProfileAccountTab(),
+      const HomeSearch(),
+      UserProfileAccountTab(),
     ];
   }
 
